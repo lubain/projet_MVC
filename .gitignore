@@ -1,0 +1,5 @@
+public/local/*.
+public/publications/*.
+writable/debugbar/*.json
+writable/session/*
+writable/logs/*.log
